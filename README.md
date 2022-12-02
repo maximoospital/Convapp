@@ -1,7 +1,7 @@
 # [![Logo](https://i.imgur.com/OJSIPTd.png)](https://maximoospital.github.io/Convapp/)
 
 ### A minimalist, lightweight and multi-platform real-time unit conversion app that keeps it simple and useful.
- [Visit the app](https://maximoospital.github.io/Convapp/)
+ [Visit the app](https://maximoospital.github.io/Convapp/) |
  [Download the app (Android only)](https://github.com/maximoospital/Convapp/releases)
 ## Features
 
