@@ -28,7 +28,7 @@
 
 ## Run locally (as an Android app)
 
-You can download the version that bests suits your phone's architecture from the [Releases](https://github.com/maximoospital/Cheatjockey/releases) tab, and install it as an APK.
+You can download the version that bests suits your phone's architecture from the [Releases](https://github.com/maximoospital/Convapp/releases) tab, and install it as an APK.
 
 ## Run locally (as a webapp)
 
